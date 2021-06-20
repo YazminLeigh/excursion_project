@@ -13,7 +13,7 @@ This project is a Codecademy project to further practice and under basic HTML an
 + VS Code
 
 ## Project Status
-Project status: 
+Project status: Complete
 
 ## Acknowledgements
 Codeacemy for providing project scope and material.
