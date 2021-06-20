@@ -9,7 +9,7 @@ header, h1{
     font-weight: normal;
     color: white;
 }
-header, a{
+header, .coming-soon, a{
     font-size: 16px;
     color: aquamarine;
 }
@@ -20,8 +20,15 @@ h2{
     font-weight: 300;
     color: white;
 }
-.app-info, p{
+.app-info, footer, p{
     font-size: 21px;
     color: grey;
 }
 
+.phone-icon{
+    padding: 30px;
+}
+
+#copyright{
+    text-align: right;
+}
